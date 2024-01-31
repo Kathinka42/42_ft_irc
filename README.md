@@ -1,4 +1,4 @@
-# ft_irc Project
+# 42 ft_irc
 
 ## Introduction
 ft_irc is an IRC (Internet Relay Chat) server implementation, part of the 42 curriculum. It focuses on network programming, client-server architecture, and adhering to the IRC protocol.
